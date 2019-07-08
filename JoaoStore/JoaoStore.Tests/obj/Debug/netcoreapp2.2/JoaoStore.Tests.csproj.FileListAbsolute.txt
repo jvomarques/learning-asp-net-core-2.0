@@ -1,0 +1,14 @@
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\bin\Debug\netcoreapp2.2\JoaoStore.Tests.deps.json
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\bin\Debug\netcoreapp2.2\JoaoStore.Tests.runtimeconfig.json
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\bin\Debug\netcoreapp2.2\JoaoStore.Tests.runtimeconfig.dev.json
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\bin\Debug\netcoreapp2.2\JoaoStore.Tests.dll
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\bin\Debug\netcoreapp2.2\JoaoStore.Tests.pdb
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\obj\Debug\netcoreapp2.2\JoaoStore.Tests.csprojAssemblyReference.cache
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\obj\Debug\netcoreapp2.2\JoaoStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\obj\Debug\netcoreapp2.2\JoaoStore.Tests.AssemblyInfoInputs.cache
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\obj\Debug\netcoreapp2.2\JoaoStore.Tests.AssemblyInfo.cs
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\obj\Debug\netcoreapp2.2\JoaoStore.Tests.dll
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Tests\obj\Debug\netcoreapp2.2\JoaoStore.Tests.pdb

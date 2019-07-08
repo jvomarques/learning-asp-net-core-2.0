@@ -1,0 +1,9 @@
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Infra\bin\Debug\netstandard2.0\JoaoStore.Infra.deps.json
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Infra\bin\Debug\netstandard2.0\JoaoStore.Infra.dll
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Infra\bin\Debug\netstandard2.0\JoaoStore.Infra.pdb
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Infra\obj\Debug\netstandard2.0\JoaoStore.Infra.csprojAssemblyReference.cache
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Infra\obj\Debug\netstandard2.0\JoaoStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Infra\obj\Debug\netstandard2.0\JoaoStore.Infra.AssemblyInfoInputs.cache
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Infra\obj\Debug\netstandard2.0\JoaoStore.Infra.AssemblyInfo.cs
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Infra\obj\Debug\netstandard2.0\JoaoStore.Infra.dll
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Infra\obj\Debug\netstandard2.0\JoaoStore.Infra.pdb

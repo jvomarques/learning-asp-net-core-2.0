@@ -1,0 +1,14 @@
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\bin\Debug\netcoreapp2.2\JoaoStore.Api.deps.json
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\bin\Debug\netcoreapp2.2\JoaoStore.Api.runtimeconfig.json
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\bin\Debug\netcoreapp2.2\JoaoStore.Api.runtimeconfig.dev.json
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\bin\Debug\netcoreapp2.2\JoaoStore.Api.dll
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\bin\Debug\netcoreapp2.2\JoaoStore.Api.pdb
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\obj\Debug\netcoreapp2.2\JoaoStore.Api.csprojAssemblyReference.cache
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\obj\Debug\netcoreapp2.2\JoaoStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\obj\Debug\netcoreapp2.2\JoaoStore.Api.RazorAssemblyInfo.cache
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\obj\Debug\netcoreapp2.2\JoaoStore.Api.RazorAssemblyInfo.cs
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\obj\Debug\netcoreapp2.2\JoaoStore.Api.AssemblyInfoInputs.cache
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\obj\Debug\netcoreapp2.2\JoaoStore.Api.AssemblyInfo.cs
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\obj\Debug\netcoreapp2.2\JoaoStore.Api.RazorTargetAssemblyInfo.cache
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\obj\Debug\netcoreapp2.2\JoaoStore.Api.dll
+C:\Users\09001597408\dev\JoaoStore\JoaoStore.Api\obj\Debug\netcoreapp2.2\JoaoStore.Api.pdb
