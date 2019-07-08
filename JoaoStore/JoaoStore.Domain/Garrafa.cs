@@ -2,7 +2,7 @@
 
 namespace JoaoStore.Domain
 {
-    public class Class1
+    public class Garrafa
     {
     }
 }
