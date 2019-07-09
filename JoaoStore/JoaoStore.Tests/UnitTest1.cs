@@ -1,4 +1,5 @@
 using JoaoStore.Domain.StoreContext;
+using JoaoStore.Domain.StoreContext.ValueOjects;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace JoaoStore.Tests
@@ -8,10 +9,13 @@ namespace JoaoStore.Tests
     {
         [TestMethod]
         public void TestMethod1()
-        {
-            var customer = new Customer("Joao", "Marques", "12345678", "joao@gmail.com", "123456789", "Rua Austria, 12");
+        {   
+            var name = new Name("Joao", "Marques");
+            var document = new Document("12345678");
+            var email = new Email("joao@gmail.com");
+            var customer = new Customer(name, document, email, "123456789", "Rua Austria, 12");
             var order = new Order(customer);
-            
+
         }
     }
 }

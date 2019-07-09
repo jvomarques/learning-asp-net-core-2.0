@@ -1,25 +1,25 @@
 using System;
+using JoaoStore.Domain.StoreContext.ValueOjects;
 
 namespace JoaoStore.Domain.StoreContext{
     public class Customer {
-        public Customer(string firstName, string lastName, string document, string email, string phone, string address)
+        public Customer(Name name, Document document, Email email, string phone, string address)
         {
-            this.firstName = firstName;
-            this.lastName = lastName;
+            this.name = name;
             this.document = document;
             this.email = email;
             this.phone = phone;
             this.address = address;
         }
-        public string firstName { get; private set; }
-        public string lastName {get; private set;}
-        public string document { get; private set; } 
-        public string email { get; private set; }
+
+        public Name name { get; private set; }
+        public Document document { get; private set; } 
+        public Email email { get; private set; }
         public string phone { get; private set; }
         public string address { get; private set; }
 
         public override string ToString(){
-            return $"{firstName} {lastName}";
+            return this.name.ToString();
         }
     }
 }
