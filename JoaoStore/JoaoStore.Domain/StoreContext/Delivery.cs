@@ -1,11 +1,18 @@
 using System;
+using JoaoStore.Domain.StoreContext.Enums;
 
 namespace JoaoStore.Domain.StoreContext{
     public class Delivery {
-        
-        public DateTime createDate { get; set; }    
-        public DateTime estimatedDeveliveryDate { get; set; }
-        public string status { get; set; }
+        public Delivery( DateTime estimatedDeveliveryDate)
+        {
+            this.createDate = DateTime.Now;
+            this.estimatedDeveliveryDate = estimatedDeveliveryDate;
+            this.status = EDeliveryStatus.waiting;
+        }
+
+        public DateTime createDate { get; private set; }    
+        public DateTime estimatedDeveliveryDate { get; private set; }
+        public EDeliveryStatus status { get; private set; }
         
     }
 }

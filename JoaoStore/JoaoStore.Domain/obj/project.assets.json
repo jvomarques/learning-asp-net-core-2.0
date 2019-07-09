@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\09001597408\\dev\\JoaoStore\\JoaoStore.Domain\\JoaoStore.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\09001597408\\dev\\learning-asp-net-core-2.0\\JoaoStore\\JoaoStore.Domain\\JoaoStore.Domain.csproj",
       "projectName": "JoaoStore.Domain",
-      "projectPath": "C:\\Users\\09001597408\\dev\\JoaoStore\\JoaoStore.Domain\\JoaoStore.Domain.csproj",
+      "projectPath": "C:\\Users\\09001597408\\dev\\learning-asp-net-core-2.0\\JoaoStore\\JoaoStore.Domain\\JoaoStore.Domain.csproj",
       "packagesPath": "C:\\Users\\09001597408\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\09001597408\\dev\\JoaoStore\\JoaoStore.Domain\\obj\\",
+      "outputPath": "C:\\Users\\09001597408\\dev\\learning-asp-net-core-2.0\\JoaoStore\\JoaoStore.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
